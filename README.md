@@ -34,7 +34,7 @@
 - **Database:** Firebase
 - **State Management:** GetX
 - **Local Storage:** Shared Preferences
-- **AI & Computer Vision:** _(Specify any additional libraries/tools used for AI and CV)_
+- **AI & Computer Vision:**
 
 ## Installation
 
